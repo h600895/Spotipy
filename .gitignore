@@ -133,4 +133,5 @@ dmypy.json
 secret.txt
 __pycache__/*
 .cache*
+DS_Store
 
